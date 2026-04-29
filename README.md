@@ -1,4 +1,7 @@
 # Narendra-handy
+
+#Deploy link : https://bright-choux-82e1d5.netlify.app/
+
 Narendra Handy is a zero-dependency, single-file browser app that turns your webcam into a gesture-controlled augmented reality canvas. 
  Built on Google's MediaPipe Hands, it tracks 21 hand landmarks in real time and maps them to visual effects, physics simulations, and freehand drawing — all rendered on layered HTML5 canvases with a neon matrix aesthetic. Three interaction modes:
 
